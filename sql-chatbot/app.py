@@ -205,7 +205,7 @@ class StreamlitUI:
         st.markdown("---")
         st.markdown(
             '<div class="footer">'
-            'Made with ❤️ by Akshada'
+            ''
             '</div>',
             unsafe_allow_html=True
         )
